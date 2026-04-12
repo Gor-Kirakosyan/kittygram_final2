@@ -5,6 +5,7 @@ volumes:
   static_volume:
   media_volume:
 
+
 services:
   db:
     image: postgres:13
